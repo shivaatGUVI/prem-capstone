@@ -1,0 +1,42 @@
+
+
+[
+    {
+        "name":"Butter-Fish Dish",
+        "price":45,
+        "description":"it's very soft",
+        "ratings":4.3,
+        "image":"/image/kit1.jpg",
+        "categories":"non-veg",
+        "kitchenName":"Keerthy-kitchen",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    
+        {
+            "name":"Fish-Masala",
+            "price":45,
+            "description":"it's very taste",
+            "ratings":4.3,
+            "image":"/image/kit2.jpg",
+            "categories":"non-veg",
+            "kitchenName":"Rajish-CloudKitchen",
+            "numOfReviews":5,
+            "quantity":1,
+            "review":[ ]
+        },
+        
+            {
+                "name":"puttu",
+                "price":45,
+                "description":"it's very sweet",
+                "ratings":4.3,
+                "image":"/image/kit3.jpg",
+                "categories":"vegterion",
+                "kitchenName":"Cloud-India-Kitchen",
+                "numOfReviews":5,
+                "quantity":1,
+                "review":[ ]
+            }
+        ]

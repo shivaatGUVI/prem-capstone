@@ -1,0 +1,50 @@
+
+
+[
+    {
+        "restarunt":"DesiFood-Restarunt",
+        "bookingPrice":450,
+        "address":"main street,chennai",
+        "ratings":4.3,
+        "image":"/image/res3.jpg",
+        "cuisine":"Indian",
+       
+        "city":"Chennai",
+        "state":"Tamil Nadu",
+        "country":"Chetti-nadu",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    }, 
+    { 
+    "restarunt":"meals-Restarunt",
+    "bookingPrice":450,
+    "address":"12th street,chennai",
+    "ratings":4.3,
+    "image":"/image/res4.jpg",
+    "cuisine":"Indian",
+   
+    "city":"Chennai",
+    "state":"Tamil Nadu",
+    "country":"India",
+    "numOfReviews":5,
+    "quantity":1,
+    "review":[ ]
+},
+{
+    "restarunt":"Pizza-Corner",
+    "bookingPrice":450,
+    "address":"main road,Mumbai",
+    "ratings":4.3,
+    "image":"/image/res2.jpg",
+    "cuisine":"western",
+    
+    "city":"Mumbai",
+    "state":"Maharastra",
+    "country":"India",
+    "numOfReviews":5,
+    "quantity":1,
+    "review":[ ]
+}
+]
+    

@@ -1,0 +1,118 @@
+
+
+[
+    {
+        "name":"idlly",
+        "price":45,
+        "description":"it's very soft",
+        "ratings":4.3,
+        "image":"/image/image1.webp",
+        "categories":"vegterion",
+        "seller":"meals-Restarunt",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"dosai",
+        "price":55,
+        "description":"it's very crunchy",
+        "ratings":4.5,
+        "image":"/image/image2.webp",
+        "categories":"vegterion",
+        "seller":"meals-Restarunt",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"veg fried-rice",
+        "price":100,
+        "description":"it's very hot",
+        "ratings":4,
+        "image":"/image/image3.jpg",
+        "categories":"vegterion",
+        "seller":"DesiFood-Restarunt",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[]
+    },
+    {
+        "name":"pizza",
+        "price":200,
+        "description":"it's very very hot",
+        "ratings":4.1,
+        "image":"/image/image4.webp" ,
+        "categories":"vegterion",
+        "seller":"Pizza-Corner",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[]
+    },
+    {
+        "name":"chicken-Burger",
+        "price":259,
+        "description":"it's hot and spicy",
+        "ratings":4,
+        "image":"/image/image5.jpg" ,
+        "categories":"non-Veg",
+        "seller":"Pizza-Corner",
+        "numOfReviews":5,
+        "review":[]
+    },
+    {
+        "name":"chicken-Briyani",
+        "price":250,
+        "description":"it's very yummy  & tasty",
+        "ratings":4.8,
+        "image":"/image/image6.jpg" ,
+        "categories":"non-Veg",
+        "seller":"DesiFood-Restarunt",
+        "numOfReviews":5,
+        "review":[]
+    },
+    {
+        "name":"chicken-65",
+        "price":250,
+        "description":"it's very hot & spicy",
+        "ratings":4.8,
+        "image":"/image/imd1.jpg" ,
+        "categories":"non-Veg",
+        "seller":"DesiFood-Restarunt",
+        "numOfReviews":5,
+        "review":[]
+    },
+    {
+        "name":"chicken-Grill",
+        "price":300,
+        "description":"it's very hot & tasty",
+        "ratings":4.8,
+        "image":"/image/img2.jpg" ,
+        "categories":"non-Veg",
+        "seller":"DesiFood-Restarunt",
+        "numOfReviews":5,
+        "review":[]
+    },
+    {
+        "name":"Chesse-Pizza",
+        "price":200,
+        "description":"it's very hot & tasty",
+        "ratings":4.8,
+        "image":"/image/img3.jpg" ,
+        "categories":"vegterion",
+        "seller":"Pizza-Corner",
+        "numOfReviews":5,
+        "review":[]
+    },
+    {
+        "name":"veg-meals",
+        "price":50,
+        "description":"it's traditional",
+        "ratings":4.8,
+        "image":"/image/img4.jfif" ,
+        "categories":"vegterion",
+        "seller":"meals-Restarunt",
+        "numOfReviews":5,
+        "review":[]
+    }
+]
